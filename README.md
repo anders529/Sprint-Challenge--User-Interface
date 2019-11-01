@@ -28,21 +28,38 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 ## Self-Study Questions
 
+
+You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+
+	WELL WHAT IF I DON'T WANT TO!? GUESS WHAT!! I'M NOT ANSWERING THOSE QUIESTIONS!!! 
+
+					XD JUST KIDDING!! :P
+
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+	Semantic HTML is basically, A way to mark up words with certain tags that have meaning.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+	display:block; makes everything display around or beneath each other.
+	display:inline; makes everything collapse next to each other, things will appear ontop of other things.
 
 3. What are the 4 areas of the box model?
 
+	Margin, border, padding, content
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+I beleive it is the "cross axis" I'm unsure of what that is. Maybe it's X ? Seeing as how X can be used to the word cross sometimes?
 
 5. Explain why git is valuable to a team of developers.
 
-You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+	Git is invaluable to developers, because it allows you to collaborate with other devs and get work done faster. It's also a way to back up your files when you go to make changes. It also makes it so that you can go back and look at older versions of those files inside the repo.
+
 
 ## Project Set Up
 
